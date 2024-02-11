@@ -1,2 +1,4 @@
-# traffic-light-simulation
-Simulates a traffic light and cars using discrete time stepping
+# Traffic Light Simulation
+A discrete-time simulation modeling a traffic light
+
+### [Output Histograms](/traffic light simulation/Writeup.pdf)
